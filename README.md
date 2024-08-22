@@ -80,9 +80,12 @@ The script generates two plots:
 Example Plots
 ###
     Linear Regression Plot: Displays a straight line fitting the data points.
-    ![Image Alt Text](./Figure_1.png)
+###
+![Image Alt Text](./Figure_1.png)
+###
     Polynomial Regression Plot: Displays a curved line that fits the data points more accurately.
-    ![Image Alt Text](./Figure_2.png)
+###
+![Image Alt Text](./Figure_2.png)
 ###
 ##
 
