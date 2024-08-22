@@ -1,9 +1,9 @@
-# Normal Equation Linear Regression
+# Normal Equation Linear Regression #
 
-## Overview
-### This Python script implements linear regression using the Normal Equation method. 
-### The script reads data from a CSV file (MarketData.csv), computes the parameters (theta values) 
-### using the normal equation, and then predicts sales based on input features.
+## Overview ##
+### This Python script implements linear regression using the Normal Equation method.  ###
+### The script reads data from a CSV file (MarketData.csv), computes the parameters (theta values)  ###
+### using the normal equation, and then predicts sales based on input features. ###
 
 ## Files
 ### MarketData.csv: The dataset containing the features (youtube, facebook, newspaper) 
